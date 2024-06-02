@@ -4,8 +4,6 @@ import './App.css';
 
 // src/App.js
 
-// src/App.js
-
 import React, { useState } from 'react';
 import Task from './Task';
 
